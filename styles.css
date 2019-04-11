@@ -1,0 +1,29 @@
+.box {
+    background-color:rgba(255,255,255, .7);  
+    margin-right: 30px; 
+    margin-left: 30px;
+    padding: 12px;
+    height: 500px;
+    width: 260px;
+}
+.box img {
+    height: 300px;
+}
+.box h1 {
+font-size: 1.5em
+}
+.wrapper {
+    background-color:rgba(200, 200, 200, .8); 
+    padding: 30px 0px 200px 0px; 
+    display: flex;
+
+}
+body {
+    background-image:url("images/background1.jpg");
+    font-family: "Arial, sans-serif";
+}
+/*.tobi = class="tobi"
+
+#jiri = id="jiri"
+
+body */
